@@ -1,0 +1,10 @@
+Problem Defination :
+		Rockwell Automation comapany wants use Amazon web Services infrastructure as service.
+
+It has its own private cloud for the services.
+Due to growth of company in all sectors the Rockwell Automation comapany wants use amazon web service.
+All the Employee of Rockwell Automation Company should get access from any where in world.
+
+
+ 
+ 

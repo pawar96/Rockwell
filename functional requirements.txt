@@ -1,0 +1,19 @@
+functional requirements 
+1. Employee registration
+2. Employee sing in 
+3. Employee validation
+4. Admin login
+5. Store Employee detials
+6. show list of Employee
+ 
+
+non functional requirements
+1. Employee login from anywhere in world
+2. Employee uses all Sevices like (Human Resources solution from any where in the wold) 
+3.Security
+4.Scalibility
+5.Availability
+6.Performance 
+
+
+ 
